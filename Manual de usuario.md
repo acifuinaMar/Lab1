@@ -63,7 +63,7 @@ Contiene las opciones:
 - **Nueva Hoja:** Añade una hoja nueva al libro.
 - **Tabla Hash:** Abre la ventana de la tabla hash.
 
-`![Menú Archivo desplegado](menu_archivo.jpg)`
+![Menú Archivo desplegado](img/menu_archivo.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ La tabla central representa una hoja de cálculo con celdas que pueden contener:
 - Números
 - Valores vacíos
 
-`![Área de celdas](area_celdas.png)`
+![Área de celdas](img/area_celdas.PNG)
 
 ---
 
@@ -90,7 +90,7 @@ Arriba se encuentra:
 
 También puedes escribir directamente en la celda y pulsar **Enter**.
 
-`![Caja de fórmula y botones](caja_formula.png)`
+![Caja de fórmula y botones](img/caja_formula.PNG)
 
 ---
 
@@ -104,7 +104,7 @@ En cada celda puedes ingresar:
 - Números: `25`, `3.14`
 - Dejarla vacía
 
-`![Ejemplo de ingreso de texto y números](ingreso_datos.png)`
+![Ejemplo de ingreso de texto y números](img/ingreso_datos.PNG)
 
 ---
 
