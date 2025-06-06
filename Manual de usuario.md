@@ -18,8 +18,6 @@
    - [5.5 Tabla Hash](#55-tabla-hash)  
 6. [Recomendaciones de uso](#6-recomendaciones-de-uso)  
 7. [Preguntas frecuentes (FAQ)](#7-preguntas-frecuentes-faq)  
-8. [Créditos y agradecimientos](#8-créditos-y-agradecimientos)
-
 ---
 
 ## 1. Introducción
