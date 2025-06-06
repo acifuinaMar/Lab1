@@ -48,7 +48,7 @@ El sistema simula una hoja de cálculo con funcionalidades básicas como ingreso
 4. Compila todos los archivos `.java`.
 5. Ejecuta la clase principal (`App.java`).
 
-`![Interfaz al iniciar](https://drive.google.com/file/d/1IRgNIF0Qp7LgR9MhIjtS4zSsQTmiaceG/view?usp=sharing)`
+![Interfaz al iniciar](img/interfaz_inicio.png)
 
 ---
 
