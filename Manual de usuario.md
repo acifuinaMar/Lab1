@@ -1,4 +1,4 @@
-# Manual de Usuario – Hoja Electrónica
+# Manual de Usuario – Hoja de Cálculo
 
 ## Índice
 1. [Introducción](#1-introducción)  
@@ -26,7 +26,7 @@
 
 Este manual de usuario está diseñado para guiarte en el uso del sistema de hoja de cálculo desarrollado como proyecto final del curso **Programación III**.
 
-El sistema simula una hoja de cálculo con funcionalidades básicas como ingreso de datos, operaciones matemáticas, múltiples hojas, almacenamiento de libros y una tabla hash con manejo de colisiones.
+El sistema simula una hoja de cálculo con funcionalidades básicas como ingreso de datos, operaciones matemáticas (suma y multiplicación), múltiples hojas, almacenamiento de libros y una tabla hash con manejo de colisiones.
 
 ---
 
@@ -35,9 +35,8 @@ El sistema simula una hoja de cálculo con funcionalidades básicas como ingreso
 - **Sistema operativo:** Windows 10 o superior / Linux / macOS  
 - **Java Development Kit:** JDK 17  
 - **RAM recomendada:** 2 GB o más  
-- **Resolución recomendada:** 1280x720 o superior  
 - **Dependencias externas:** Ninguna  
-- **Modo de ejecución:** Desde entorno como IntelliJ, NetBeans o por terminal (`javac`, `java`)
+- **Modo de ejecución:** Desde entorno como IntelliJ, NetBeans.
 
 ---
 
@@ -47,10 +46,9 @@ El sistema simula una hoja de cálculo con funcionalidades básicas como ingreso
 2. Clona o descarga el proyecto.
 3. Abre el proyecto en tu IDE preferido.
 4. Compila todos los archivos `.java`.
-5. Ejecuta la clase principal (`Main.java` o similar).
+5. Ejecuta la clase principal (`App.java`).
 
-📸 **Captura sugerida:**  
-`![Interfaz al iniciar](img/interfaz_inicio.png)`
+`![Interfaz al iniciar](interfaz_inicio.pngF)`
 
 ---
 
@@ -65,7 +63,7 @@ Contiene las opciones:
 - **Nueva Hoja:** Añade una hoja nueva al libro.
 - **Tabla Hash:** Abre la ventana de la tabla hash.
 
-📸 `![Menú Archivo desplegado](img/menu_archivo.png)`
+`![Menú Archivo desplegado](menu_archivo.jpg)`
 
 ---
 
@@ -77,7 +75,7 @@ La tabla central representa una hoja de cálculo con celdas que pueden contener:
 - Números
 - Valores vacíos
 
-📸 `![Área de celdas](img/area_celdas.png)`
+`![Área de celdas](area_celdas.png)`
 
 ---
 
@@ -92,7 +90,7 @@ Arriba se encuentra:
 
 También puedes escribir directamente en la celda y pulsar **Enter**.
 
-📸 `![Caja de fórmula y botones](img/caja_formula.png)`
+`![Caja de fórmula y botones](caja_formula.png)`
 
 ---
 
@@ -106,7 +104,7 @@ En cada celda puedes ingresar:
 - Números: `25`, `3.14`
 - Dejarla vacía
 
-📸 `![Ejemplo de ingreso de texto y números](img/ingreso_datos.png)`
+`![Ejemplo de ingreso de texto y números](ingreso_datos.png)`
 
 ---
 
